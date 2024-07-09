@@ -1,7 +1,7 @@
 
 # Easy SSMs
 
-This repository contains simple implementations of the various SSM based on models discussed in https://tinkerd.net/blog/machine-learning/state-space-models/
+This repository contains simple implementations of the various SSM-based models discussed in https://tinkerd.net/blog/machine-learning/state-space-models/
 
 These implementations are optimized for readability rather than performance and are thus not meant for production use.
 
